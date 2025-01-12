@@ -1,0 +1,19 @@
+{
+    "name": "Typing ace",
+    "short_name": "Typing Ace",
+    "start_url": "/English_word_test",
+    "display": "standalone",
+    "background_color": "#f1f1f1",
+    "theme_color": "#1abc9c",
+    "icons": [{
+            "src": "T_192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "T_512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}

@@ -1,0 +1,49 @@
+{
+    "versions": [
+        {
+            "version": "1.0.5",
+            "releaseDate": "2025-01-11",
+            "changes": [
+                "語音功能"
+            ]
+        },
+        {
+            "version": "1.0.4",
+            "releaseDate": "2025-01-11",
+            "changes": [
+                "小問題修正",
+                "單字庫可分類查詢",
+                "大小寫均可以視為正確"
+            ]
+        },
+        {
+            "version": "1.0.3",
+            "releaseDate": "2025-01-10",
+            "changes": [
+                "多選項單字內容可增加練習"
+            ]
+        },
+        {
+            "version": "1.0.2",
+            "releaseDate": "2025-01-10",
+            "changes": [
+                "iphone支援加入主畫面"
+            ]
+        },
+        {
+            "version": "1.0.1",
+            "releaseDate": "2025-01-10",
+            "changes": [
+                "錯誤修正",
+                "新增版本查詢功能。"
+            ]
+        },
+        {
+            "version": "1.0.0",
+            "releaseDate": "2025-01-09",
+            "changes": [
+                "初始版本，包含基本的打字速度練習功能。"
+            ]
+        }
+    ]
+}

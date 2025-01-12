@@ -1,0 +1,1803 @@
+{
+    "統測單字": [
+        {
+            "english": "rainforest",
+            "chinese": "(n.) 雨林"
+        },
+        {
+            "english": "ecosystem",
+            "chinese": "(n.) 生態系統"
+        },
+        {
+            "english": "surface",
+            "chinese": "(n.) 表面"
+        },
+        {
+            "english": "provide",
+            "chinese": "(v.) 提供"
+        },
+        {
+            "english": "treat",
+            "chinese": "(v.) 治療"
+        },
+        {
+            "english": "disease",
+            "chinese": "(n.) 疾病"
+        },
+        {
+            "english": "item",
+            "chinese": "(n.) 物品"
+        },
+        {
+            "english": "disappear",
+            "chinese": "(v.) 消失"
+        },
+        {
+            "english": "alarmingly",
+            "chinese": "(adv.) 驚人地"
+        },
+        {
+            "english": "due to",
+            "chinese": "(phr.) 由於"
+        },
+        {
+            "english": "development",
+            "chinese": "(n.) 發展"
+        },
+        {
+            "english": "decrease",
+            "chinese": "(n.) 減少"
+        },
+        {
+            "english": "species",
+            "chinese": "(n.) 物種"
+        },
+        {
+            "english": "immediately",
+            "chinese": "(adv.) 立即"
+        },
+        {
+            "english": "look into",
+            "chinese": "(v.phr.) 調查"
+        },
+        {
+            "english": "make up",
+            "chinese": "(v.phr.) 構成"
+        },
+        {
+            "english": "turn down",
+            "chinese": "(v.phr.) 拒絕"
+        },
+        {
+            "english": "manufacture",
+            "chinese": "(v.) 製造"
+        },
+        {
+            "english": "conclude",
+            "chinese": "(v.) 做結論"
+        },
+        {
+            "english": "unfortunately",
+            "chinese": "(adv.) 不幸地"
+        },
+        {
+            "english": "result from",
+            "chinese": "(v.phr.) 起因於"
+        },
+        {
+            "english": "journey",
+            "chinese": "(n.) 旅程"
+        },
+        {
+            "english": "come close to",
+            "chinese": "(v.phr.) 差點"
+        },
+        {
+            "english": "succeed",
+            "chinese": "(v.) 成功"
+        },
+        {
+            "english": "goal",
+            "chinese": "(n.) 目標"
+        },
+        {
+            "english": "explore",
+            "chinese": "(v.phr.) 探險"
+        },
+        {
+            "english": "distance",
+            "chinese": "(n.) 距離"
+        },
+        {
+            "english": "manage to V",
+            "chinese": "(v.phr.) 設法做到"
+        },
+        {
+            "english": "occupy",
+            "chinese": "(v.) 佔據；佔領"
+        },
+        {
+            "english": "major",
+            "chinese": "(adj.) 主要的"
+        },
+        {
+            "english": "flat",
+            "chinese": "(adj.) 平的"
+        },
+        {
+            "english": "edge",
+            "chinese": "(n.) 邊緣"
+        },
+        {
+            "english": "original",
+            "chinese": "(adj.) 原本的；最初的"
+        },
+        {
+            "english": "treasure",
+            "chinese": "(n.) 寶藏"
+        },
+        {
+            "english": "open up",
+            "chinese": "(v.phr.) 開拓"
+        },
+        {
+            "english": "vast",
+            "chinese": "(adj.) 廣大的"
+        },
+        {
+            "english": "vision",
+            "chinese": "(n.) 遠見"
+        },
+        {
+            "english": "security",
+            "chinese": "(n.) 安全"
+        },
+        {
+            "english": "unknown",
+            "chinese": "(adj.) 未知的"
+        },
+        {
+            "english": "adventure",
+            "chinese": "(n.) 冒險"
+        },
+        {
+            "english": "compared to",
+            "chinese": "(phr.) 和...相比"
+        },
+        {
+            "english": "despite",
+            "chinese": "(prep.) 儘管"
+        },
+        {
+            "english": "rather than",
+            "chinese": "(phr.) 而不是"
+        },
+        {
+            "english": "as usual",
+            "chinese": "(phr.) 如往常"
+        },
+        {
+            "english": "moreover",
+            "chinese": "(adv.) 此外"
+        },
+        {
+            "english": "portion",
+            "chinese": "(n.) 一份"
+        },
+        {
+            "english": "must-try",
+            "chinese": "(n.) 必吃食物"
+        },
+        {
+            "english": "rule",
+            "chinese": "(v.) 統治"
+        },
+        {
+            "english": "overcome",
+            "chinese": "(v.) 克服"
+        },
+        {
+            "english": "crop",
+            "chinese": "(n.) 農作物"
+        },
+        {
+            "english": "tropical",
+            "chinese": "(adj.) 熱帶的"
+        },
+        {
+            "english": "thanks to",
+            "chinese": "(phr.) 由於；多虧"
+        },
+        {
+            "english": "technique",
+            "chinese": "(n.) 技術"
+        },
+        {
+            "english": "local",
+            "chinese": "(adj.) 本地的；當地的"
+        },
+        {
+            "english": "quality",
+            "chinese": "(n.) 品質"
+        },
+        {
+            "english": "promote",
+            "chinese": "(v.) 推廣"
+        },
+        {
+            "english": "industry",
+            "chinese": "(n.) 產業"
+        },
+        {
+            "english": "flavor",
+            "chinese": "(n.) 風味；口味"
+        },
+        {
+            "english": "emerge",
+            "chinese": "(v.) 出現"
+        },
+        {
+            "english": "fame",
+            "chinese": "(n.) 名聲"
+        },
+        {
+            "english": "numerous",
+            "chinese": "(adj.) 無數的"
+        },
+        {
+            "english": "award",
+            "chinese": "(n.) 獎"
+        },
+        {
+            "english": "honor",
+            "chinese": "(n.) 榮耀"
+        },
+        {
+            "english": "competition",
+            "chinese": "(n.) 競爭；競賽"
+        },
+        {
+            "english": "come up with",
+            "chinese": "(v.phr.) 想出"
+        },
+        {
+            "english": "a variety of",
+            "chinese": "(phr.) 各式各樣的"
+        },
+        {
+            "english": "appreciate",
+            "chinese": "(v.) 欣賞"
+        },
+        {
+            "english": "domestic",
+            "chinese": "(adj.) 國內的"
+        },
+        {
+            "english": "take off",
+            "chinese": "(v.phr.) 突然大受歡迎"
+        },
+        {
+            "english": "encourage",
+            "chinese": "(v.) 鼓勵"
+        },
+        {
+            "english": "success",
+            "chinese": "(n.) 成功"
+        },
+        {
+            "english": "global",
+            "chinese": "(adj.) 全球的"
+        },
+        {
+            "english": "target",
+            "chinese": "(v.) 瞄準"
+        },
+        {
+            "english": "eager",
+            "chinese": "(adj.) 渴望的"
+        },
+        {
+            "english": "worldwide",
+            "chinese": "(adv.) 全世界"
+        },
+        {
+            "english": "delicate",
+            "chinese": "(adj.) 精緻的"
+        },
+        {
+            "english": "remove",
+            "chinese": "(v.phr.) 除去"
+        },
+        {
+            "english": "competitive",
+            "chinese": "(adj.) 競爭的"
+        },
+        {
+            "english": "present",
+            "chinese": "(v.phr.) 呈現"
+        },
+        {
+            "english": "challenge",
+            "chinese": "(n.) 挑戰"
+        },
+        {
+            "english": "purpose",
+            "chinese": "(n.) 目的"
+        },
+        {
+            "english": "describe",
+            "chinese": "(v.) 描述"
+        },
+        {
+            "english": "rapid",
+            "chinese": "(adj.) 快速的"
+        },
+        {
+            "english": "spread",
+            "chinese": "(n.) (v.) 蔓延；傳播"
+        },
+        {
+            "english": "social distancing",
+            "chinese": "(n.) 社交距離"
+        },
+        {
+            "english": "prevent",
+            "chinese": "(v.) 防止；預防"
+        },
+        {
+            "english": "infection",
+            "chinese": "(n.) 感染"
+        },
+        {
+            "english": "increase",
+            "chinese": "(v.) 增加"
+        },
+        {
+            "english": "bring about",
+            "chinese": "(v.phr.) 導致；造成"
+        },
+        {
+            "english": "affect",
+            "chinese": "(v.) 影響"
+        },
+        {
+            "english": "avoid",
+            "chinese": "(v.) 避免"
+        },
+        {
+            "english": "crowded",
+            "chinese": "(adj.) 擁擠的"
+        },
+        {
+            "english": "unnecessary",
+            "chinese": "(adj.) 不必要的"
+        },
+        {
+            "english": "entertainment",
+            "chinese": "(n.) 娛樂"
+        },
+        {
+            "english": "significantly",
+            "chinese": "(adv.) 重大地"
+        },
+        {
+            "english": "effect",
+            "chinese": "(n.) 影響"
+        },
+        {
+            "english": "crisis",
+            "chinese": "(n.) 危機"
+        },
+        {
+            "english": "worsen",
+            "chinese": "(v.) 惡化"
+        },
+        {
+            "english": "one after another",
+            "chinese": "(phr.) 一個接著一個"
+        },
+        {
+            "english": "attend",
+            "chinese": "(v.) 上課；出席"
+        },
+        {
+            "english": "connection",
+            "chinese": "(n.) 連結"
+        },
+        {
+            "english": "lower",
+            "chinese": "(v.) 降低"
+        },
+        {
+            "english": "risk",
+            "chinese": "(n.) 風險"
+        },
+        {
+            "english": "employee",
+            "chinese": "(n.) 員工"
+        },
+        {
+            "english": "flexible",
+            "chinese": "(adj.) 彈性的"
+        },
+        {
+            "english": "furthermore",
+            "chinese": "(adv.) 此外"
+        },
+        {
+            "english": "sick leave",
+            "chinese": "(n. phr.) 病假"
+        },
+        {
+            "english": "income",
+            "chinese": "(n.) 收入"
+        },
+        {
+            "english": "employment",
+            "chinese": "(n.) 工作；就業"
+        },
+        {
+            "english": "measure",
+            "chinese": "(v.) 測量"
+        },
+        {
+            "english": "stop...from...",
+            "chinese": "(v.phr.) 阻止...做..."
+        },
+        {
+            "english": "instead of",
+            "chinese": "(phr.) 而不是"
+        },
+        {
+            "english": "bright",
+            "chinese": "(adj.) 光亮的"
+        },
+        {
+            "english": "various",
+            "chinese": "(adj.) 各種不同的"
+        },
+        {
+            "english": "include",
+            "chinese": "(v.) 包括"
+        },
+        {
+            "english": "career",
+            "chinese": "(n.) 生涯"
+        },
+        {
+            "english": "product",
+            "chinese": "(n.) 產品"
+        },
+        {
+            "english": "gossip",
+            "chinese": "(v.) 聊八卦"
+        },
+        {
+            "english": "discuss",
+            "chinese": "(v.) 討論"
+        },
+        {
+            "english": "private",
+            "chinese": "(adj.) 私人的"
+        },
+        {
+            "english": "annoyed",
+            "chinese": "(adj.) 惱怒的"
+        },
+        {
+            "english": "embarrassed",
+            "chinese": "(adj.) 尷尬的"
+        },
+        {
+            "english": "fearful",
+            "chinese": "(adj.) 可怕的"
+        },
+        {
+            "english": "technology",
+            "chinese": "(n.) 科技"
+        },
+        {
+            "english": "effectively",
+            "chinese": "(adv.) 有效地"
+        },
+        {
+            "english": "confuse",
+            "chinese": "(v.) 使困惑"
+        },
+        {
+            "english": "enable",
+            "chinese": "(v.) 使能夠"
+        },
+        {
+            "english": "reduce",
+            "chinese": "(v.) 減少；降低"
+        },
+        {
+            "english": "discount",
+            "chinese": "(n.) 折扣"
+        },
+        {
+            "english": "regionally",
+            "chinese": "(adv.) 地域性地"
+        },
+        {
+            "english": "relatively",
+            "chinese": "(adv.) 相對地"
+        },
+        {
+            "english": "reluctantly",
+            "chinese": "(adv.) 不願意地"
+        },
+        {
+            "english": "respectfully",
+            "chinese": "(adv.) 恭敬地"
+        },
+        {
+            "english": "compose",
+            "chinese": "(v.) 作曲；創作"
+        },
+        {
+            "english": "lighten",
+            "chinese": "(v.) 變淺；變淡"
+        },
+        {
+            "english": "monitor",
+            "chinese": "(v.) 監控"
+        },
+        {
+            "english": "reject",
+            "chinese": "(v.) 拒絕"
+        },
+        {
+            "english": "essential",
+            "chinese": "(adj.) 必要的"
+        },
+        {
+            "english": "dramatic",
+            "chinese": "(adj.) 戲劇的"
+        },
+        {
+            "english": "acting",
+            "chinese": "(n.) 表演"
+        },
+        {
+            "english": "emotion",
+            "chinese": "(n.) 情感"
+        },
+        {
+            "english": "expressive",
+            "chinese": "(adj.) 表情豐富的"
+        },
+        {
+            "english": "identical",
+            "chinese": "(adj.) 完全相同的"
+        },
+        {
+            "english": "protective",
+            "chinese": "(adj.) 防護的"
+        },
+        {
+            "english": "reasonable",
+            "chinese": "(adj.) 合理的"
+        },
+        {
+            "english": "lately",
+            "chinese": "(adv.) 最近"
+        },
+        {
+            "english": "contact",
+            "chinese": "(v.) 聯絡；接觸"
+        },
+        {
+            "english": "fairly",
+            "chinese": "(adv.) 相當地"
+        },
+        {
+            "english": "nearly",
+            "chinese": "(adv.) 幾乎"
+        },
+        {
+            "english": "recently",
+            "chinese": "(adv.) 最近"
+        },
+        {
+            "english": "shortly",
+            "chinese": "(adv.) 不久"
+        },
+        {
+            "english": "regard",
+            "chinese": "(n.) 關心"
+        },
+        {
+            "english": "concern",
+            "chinese": "(n.) 關心"
+        },
+        {
+            "english": "fortune",
+            "chinese": "(n.) 命運；財富"
+        },
+        {
+            "english": "silence",
+            "chinese": "(n.) 寧靜；沉默"
+        },
+        {
+            "english": "temper",
+            "chinese": "(n.) 脾氣"
+        },
+        {
+            "english": "indicate",
+            "chinese": "(v.) 指出；顯示"
+        },
+        {
+            "english": "association",
+            "chinese": "(n.) 關聯"
+        },
+        {
+            "english": "stress",
+            "chinese": "(n.) 壓力"
+        },
+        {
+            "english": "exchange",
+            "chinese": "(n.) 交換"
+        },
+        {
+            "english": "obstacle",
+            "chinese": "(n.) 障礙"
+        },
+        {
+            "english": "relationship",
+            "chinese": "(n.) 關係"
+        },
+        {
+            "english": "similarity",
+            "chinese": "(n.)類似；相似"
+        },
+        {
+            "english": "government",
+            "chinese": "(n.)政府，內閣"
+        },
+        {
+            "english": "declare",
+            "chinese": "(v.)宣佈;聲明;公佈"
+        },
+        {
+            "english": "announce",
+            "chinese": "(v.)（尤指公開地）宣佈，宣告，通告"
+        },
+        {
+            "english": "discover",
+            "chinese": "(v.)（尤指首次）發現，找到"
+        },
+        {
+            "english": "predict",
+            "chinese": "(v.)預言;預料，預計"
+        },
+        {
+            "english": "make sense",
+            "chinese": "(v.phr.)合理的"
+        },
+        {
+            "english": "come true",
+            "chinese": "(v.phr.)成真, 實現"
+        },
+        {
+            "english": "empty",
+            "chinese": "(adj.)空的;無人的"
+        },
+        {
+            "english": "You can say that again.",
+            "chinese": "你說的沒錯"
+        },
+        {
+            "english": "delivery",
+            "chinese": "(n.)運送，遞送，投遞"
+        },
+        {
+            "english": "culture",
+            "chinese": "(n.)文化（尤指某一群體在某一時期普遍的風俗習慣和信仰）"
+        },
+        {
+            "english": "service",
+            "chinese": "(n.)公共服務系統；公共事業"
+        },
+        {
+            "english": "graduate",
+            "chinese": "(v.)大學畢業生，學士學位獲得者"
+        },
+        {
+            "english": "impatient",
+            "chinese": "(adj.)不耐煩的，無耐心的"
+        },
+        {
+            "english": "strong/weak point",
+            "chinese": "(n.)優缺點"
+        },
+        {
+            "english": "background",
+            "chinese": "(n.)（畫、相片的）背景，襯托"
+        },
+        {
+            "english": "experience",
+            "chinese": "(n.)經驗;經歷;實踐"
+        },
+        {
+            "english": "take up",
+            "chinese": "(v.phr.)開始學, 做, 喜歡上; 接受；繼續"
+        },
+        {
+            "english": "skydiving",
+            "chinese": "(n.)特技跳傘"
+        },
+        {
+            "english": "How do you like...",
+            "chinese": "你想喝甚麽樣的…？/你覺得…怎麽樣？"
+        },
+        {
+            "english": "seating",
+            "chinese": "(n.)座位"
+        },
+        {
+            "english": "stadium",
+            "chinese": "(n.)體育場"
+        },
+        {
+            "english": "stage",
+            "chinese": "(n.)階段;發展時期"
+        },
+        {
+            "english": "fee",
+            "chinese": "(n.)報酬;服務費;費用"
+        },
+        {
+            "english": "apply",
+            "chinese": "塗抹;申請;應用"
+        },
+        {
+            "english": "cheer",
+            "chinese": "歡呼"
+        },
+        {
+            "english": "regret",
+            "chinese": "後悔"
+        },
+        {
+            "english": "realize",
+            "chinese": "了解"
+        },
+        {
+            "english": "remain",
+            "chinese": "維持"
+        },
+        {
+            "english": "swear",
+            "chinese": "發誓"
+        },
+        {
+            "english": "switch",
+            "chinese": "轉換 打開 關掉"
+        },
+        {
+            "english": "upset",
+            "chinese": "使心煩意亂"
+        },
+        {
+            "english": "spoil",
+            "chinese": "毀掉 寵壞"
+        },
+        {
+            "english": "support",
+            "chinese": "支持"
+        },
+        {
+            "english": "reply",
+            "chinese": "回覆"
+        },
+        {
+            "english": "casually",
+            "chinese": "偶然地 隨便地"
+        },
+        {
+            "english": "extremely",
+            "chinese": "極度地"
+        },
+        {
+            "english": "loosely",
+            "chinese": "鬆散地"
+        },
+        {
+            "english": "scarcely",
+            "chinese": "幾乎不"
+        },
+        {
+            "english": "ambitious",
+            "chinese": "有野心的"
+        },
+        {
+            "english": "constant",
+            "chinese": "持續的"
+        },
+        {
+            "english": "elegant",
+            "chinese": "優雅的"
+        },
+        {
+            "english": "glorious",
+            "chinese": "光榮的"
+        },
+        {
+            "english": "reluctantly",
+            "chinese": "不情願地"
+        },
+        {
+            "english": "indirectly",
+            "chinese": "間接地"
+        },
+        {
+            "english": "informally",
+            "chinese": "非正式地"
+        },
+        {
+            "english": "untruthfully",
+            "chinese": "不真實地"
+        },
+        {
+            "english": "unwillingly",
+            "chinese": "不情願地"
+        },
+        {
+            "english": "existence",
+            "chinese": "存在"
+        },
+        {
+            "english": "absence",
+            "chinese": "缺席"
+        },
+        {
+            "english": "conflict",
+            "chinese": "衝突"
+        },
+        {
+            "english": "presence",
+            "chinese": "存在"
+        },
+        {
+            "english": "standard",
+            "chinese": "標準"
+        },
+        {
+            "english": "definitely",
+            "chinese": "絕對地"
+        },
+        {
+            "english": "absolutely",
+            "chinese": "絕對地"
+        },
+        {
+            "english": "relatively",
+            "chinese": "相對地"
+        },
+        {
+            "english": "suspiciously",
+            "chinese": "可疑地"
+        },
+        {
+            "english": "temporarily",
+            "chinese": "暫時地"
+        },
+        {
+            "english": "figure",
+            "chinese": "人物 角色"
+        },
+        {
+            "english": "relieve",
+            "chinese": "減緩"
+        },
+        {
+            "english": "appointment",
+            "chinese": "預約的約會"
+        },
+        {
+            "english": "recommend",
+            "chinese": "推薦 建議"
+        },
+        {
+            "english": "afford",
+            "chinese": "負擔 承擔"
+        },
+        {
+            "english": "exhibition",
+            "chinese": "展覽"
+        },
+        {
+            "english": "sculpture",
+            "chinese": "雕像"
+        },
+        {
+            "english": "pregnant",
+            "chinese": "懷孕的"
+        },
+        {
+            "english": "solid",
+            "chinese": "固體的"
+        },
+        {
+            "english": "babysitter",
+            "chinese": "保母"
+        },
+        {
+            "english": "exhausted",
+            "chinese": "疲累的"
+        },
+        {
+            "english": "enable..to+V",
+            "chinese": "使能夠"
+        },
+        {
+            "english": "get access to+N",
+            "chinese": "有途徑得到"
+        },
+        {
+            "english": "over",
+            "chinese": "透過"
+        },
+        {
+            "english": "while",
+            "chinese": "雖然"
+        },
+        {
+            "english": "whether",
+            "chinese": "是否"
+        },
+        {
+            "english": "available",
+            "chinese": "有空的 可得到的"
+        },
+        {
+            "english": "in terms of",
+            "chinese": "就...而言"
+        },
+        {
+            "english": "prefer...to",
+            "chinese": "偏好"
+        },
+        {
+            "english": "whereas",
+            "chinese": "while雖然"
+        },
+        {
+            "english": "avoid+N/Ving",
+            "chinese": "避免"
+        },
+        {
+            "english": "as well",
+            "chinese": "也"
+        },
+        {
+            "english": "reduce",
+            "chinese": "減少"
+        },
+        {
+            "english": "stress",
+            "chinese": "壓力"
+        },
+        {
+            "english": "condition",
+            "chinese": "情況"
+        },
+        {
+            "english": "intense",
+            "chinese": "激烈的"
+        },
+        {
+            "english": "effortless",
+            "chinese": "輕而易舉的"
+        },
+        {
+            "english": "identical",
+            "chinese": "相同的"
+        },
+        {
+            "english": "eager",
+            "chinese": "急切的"
+        },
+        {
+            "english": "had better+V",
+            "chinese": "最好"
+        },
+        {
+            "english": "used to +V",
+            "chinese": "曾經"
+        },
+        {
+            "english": "ought to + V",
+            "chinese": "應該要"
+        },
+        {
+            "english": "would rather+V",
+            "chinese": "寧願"
+        },
+        {
+            "english": "award",
+            "chinese": "獎項"
+        },
+        {
+            "english": "landslide",
+            "chinese": "土石流"
+        },
+        {
+            "english": "bring about",
+            "chinese": "造成"
+        },
+        {
+            "english": "bury",
+            "chinese": "埋"
+        },
+        {
+            "english": "flood",
+            "chinese": "洪水"
+        },
+        {
+            "english": "abuse",
+            "chinese": "濫用"
+        },
+        {
+            "english": "raise",
+            "chinese": "募集"
+        },
+        {
+            "english": "bank loan",
+            "chinese": "銀行貸款"
+        },
+        {
+            "english": "release",
+            "chinese": "上映"
+        },
+        {
+            "english": "contribution to",
+            "chinese": "貢獻"
+        },
+        {
+            "english": "collect",
+            "chinese": "收集"
+        },
+        {
+            "english": "lift",
+            "chinese": "舉起"
+        },
+        {
+            "english": "concern",
+            "chinese": "關懷"
+        },
+        {
+            "english": "victim",
+            "chinese": "受害者"
+        },
+        {
+            "english": "assist in",
+            "chinese": "協助"
+        },
+        {
+            "english": "entertain",
+            "chinese": "娛樂"
+        },
+        {
+            "english": "appliance",
+            "chinese": "家庭電器"
+        },
+        {
+            "english": "engage...in",
+            "chinese": "使...參與"
+        },
+        {
+            "english": "disappoint",
+            "chinese": "使失望"
+        },
+        {
+            "english": "behave",
+            "chinese": "表現"
+        },
+        {
+            "english": "handle",
+            "chinese": "處理"
+        },
+        {
+            "english": "communication",
+            "chinese": "溝通"
+        },
+        {
+            "english": "effort",
+            "chinese": "努力"
+        },
+        {
+            "english": "effective",
+            "chinese": "有效的"
+        }
+    ],
+    "東大英文A L5-L6單字片語": [{
+            "english": "diagnose",
+            "chinese": "vt. 診斷"
+        },
+        {
+            "english": "diagnosis",
+            "chinese": "n. [C][U] 診斷"
+        },
+        {
+            "english": "investigate",
+            "chinese": "vt. 調查"
+        },
+        {
+            "english": "investigation",
+            "chinese": "n. [C][U] 調查"
+        },
+        {
+            "english": "employ",
+            "chinese": "vt. 僱用"
+        },
+        {
+            "english": "employee",
+            "chinese": "n. [C] 員工"
+        },
+        {
+            "english": "employer",
+            "chinese": "n. [C] 僱主"
+        },
+        {
+            "english": "symptom",
+            "chinese": "n. [C] 症狀"
+        },
+        {
+            "english": "transmit",
+            "chinese": "vt. 傳播"
+        },
+        {
+            "english": "infect",
+            "chinese": "vt. 傳染，感染"
+        },
+        {
+            "english": "infection",
+            "chinese": "n. [C] 感染，傳染"
+        },
+        {
+            "english": "infectious",
+            "chinese": "adj. 傳染性的"
+        },
+        {
+            "english": "suspicion",
+            "chinese": "n. [C] 懷疑"
+        },
+        {
+            "english": "suspect",
+            "chinese": "vt. 懷疑"
+        },
+        {
+            "english": "accusation",
+            "chinese": "n. [C][U] 指控"
+        },
+        {
+            "english": "accuse",
+            "chinese": "vt. 指控"
+        },
+        {
+            "english": "persist",
+            "chinese": "vi.; vt. 堅持"
+        },
+        {
+            "english": "cooperate",
+            "chinese": "vi. 合作"
+        },
+        {
+            "english": "cooperation",
+            "chinese": "n. [U] 合作"
+        },
+        {
+            "english": "cautious",
+            "chinese": "adj. 小心的，謹慎的"
+        },
+        {
+            "english": "caution",
+            "chinese": "n. [U] 小心，謹慎"
+        },
+        {
+            "english": "arrest",
+            "chinese": "vt. 逮捕"
+        },
+        {
+            "english": "arrest",
+            "chinese": "n. [U] 逮捕"
+        },
+        {
+            "english": "isolation",
+            "chinese": "n. [U] 隔離"
+        },
+        {
+            "english": "fatal",
+            "chinese": "adj. 致命的"
+        },
+        {
+            "english": "illness",
+            "chinese": "n. [C][U] 疾病"
+        },
+        {
+            "english": "ill",
+            "chinese": "adj. 不舒服的，生病的"
+        },
+        {
+            "english": "awareness",
+            "chinese": "n. [U] 意識"
+        },
+        {
+            "english": "aware",
+            "chinese": "adj. 意識到的"
+        },
+        {
+            "english": "fertile",
+            "chinese": "adj. 肥沃的"
+        },
+        {
+            "english": "measure",
+            "chinese": "n. [C] 措施"
+        },
+        {
+            "english": "vital",
+            "chinese": "adj. 極其重要的，不可或缺的"
+        },
+        {
+            "english": "notify",
+            "chinese": "vt. 通知"
+        },
+        {
+            "english": "authority",
+            "chinese": "n. [C] 當局，官方"
+        },
+        {
+            "english": "essential",
+            "chinese": "adj. 必要的，不可或缺的"
+        },
+        {
+            "english": "suffering",
+            "chinese": "n. [U] 折磨，疼痛"
+        },
+        {
+            "english": "suffer",
+            "chinese": "vt.; vi. 受苦，受折磨"
+        },
+        {
+            "english": "typhoid",
+            "chinese": "n. [U] 傷寒"
+        },
+        {
+            "english": "typhoid fever",
+            "chinese": "n. [U] 傷寒"
+        },
+        {
+            "english": "bodily",
+            "chinese": "adj. 人體的"
+        },
+        {
+            "english": "sanitation",
+            "chinese": "n. [U] 環境衛生，衛生設備"
+        },
+        {
+            "english": "specialty",
+            "chinese": "n. [C] 拿手菜"
+        },
+        {
+            "english": "germ",
+            "chinese": "n. [C] 細菌，病菌"
+        },
+        {
+            "english": "cluster",
+            "chinese": "n. [C] 群，集"
+        },
+        {
+            "english": "raw",
+            "chinese": "adj. 生的"
+        },
+        {
+            "english": "call sb in",
+            "chinese": "請某人來，召某人來"
+        },
+        {
+            "english": "lead to",
+            "chinese": "導致，造成"
+        },
+        {
+            "english": "last but not least",
+            "chinese": "最後但同樣重要的"
+        },
+        {
+            "english": "put an end to sth",
+            "chinese": "終止某事"
+        },
+        {
+            "english": "billion",
+            "chinese": "n. [C] 十億"
+        },
+        {
+            "english": "ton",
+            "chinese": "n. [C] 公噸"
+        },
+        {
+            "english": "household",
+            "chinese": "adj. 家庭的，家用的"
+        },
+        {
+            "english": "dump",
+            "chinese": "n. [C] 垃圾場"
+        },
+        {
+            "english": "dump",
+            "chinese": "vt. 丟掉"
+        },
+        {
+            "english": "junk",
+            "chinese": "n. [U] 無用的東西"
+        },
+        {
+            "english": "district",
+            "chinese": "n. [C] 區，區域"
+        },
+        {
+            "english": "efficient",
+            "chinese": "adj. 有效率的，效率高的"
+        },
+        {
+            "english": "efficiency",
+            "chinese": "n. [U] 效率"
+        },
+        {
+            "english": "capacity",
+            "chinese": "n. [U] 生產量"
+        },
+        {
+            "english": "import",
+            "chinese": "vt. 進口"
+        },
+        {
+            "english": "conventional",
+            "chinese": "adj. 傳統的，習慣的"
+        },
+        {
+            "english": "convention",
+            "chinese": "n. [C][U] 傳統，習俗"
+        },
+        {
+            "english": "generate",
+            "chinese": "vt. 產生，引起"
+        },
+        {
+            "english": "citizen",
+            "chinese": "n. [C] 公民，市民"
+        },
+        {
+            "english": "mountainous",
+            "chinese": "adj. 多山的"
+        },
+        {
+            "english": "empty",
+            "chinese": "adj. 空的，無人的"
+        },
+        {
+            "english": "empty",
+            "chinese": "vt. 使變空，清空"
+        },
+        {
+            "english": "basis",
+            "chinese": "n. [sing.] 原因，緣由"
+        },
+        {
+            "english": "basis",
+            "chinese": "n. [C][sing.] (行動) 方式"
+        },
+        {
+            "english": "base",
+            "chinese": "vt. 基於......"
+        },
+        {
+            "english": "reliable",
+            "chinese": "adj. 可靠的"
+        },
+        {
+            "english": "alternative",
+            "chinese": "adj. 替代的，供選擇的"
+        },
+        {
+            "english": "alternative",
+            "chinese": "n. [C] 可供替代的選擇"
+        },
+        {
+            "english": "recyclable",
+            "chinese": "adj. 可回收利用的"
+        },
+        {
+            "english": "recycle",
+            "chinese": "vt. 回收利用"
+        },
+        {
+            "english": "sort",
+            "chinese": "vt. 將......分類"
+        },
+        {
+            "english": "sort",
+            "chinese": "n. [C] 種類，類別"
+        },
+        {
+            "english": "accustomed",
+            "chinese": "adj. 習慣於"
+        },
+        {
+            "english": "accustom",
+            "chinese": "vt. 使習慣於"
+        },
+        {
+            "english": "classify",
+            "chinese": "vt. 分類，劃分"
+        },
+        {
+            "english": "classification",
+            "chinese": "n. [U] 分類，歸類"
+        },
+        {
+            "english": "resource",
+            "chinese": "n. [C] 資源"
+        },
+        {
+            "english": "proper",
+            "chinese": "adj. 適當的"
+        },
+        {
+            "english": "decline",
+            "chinese": "vi. 減少，下降"
+        },
+        {
+            "english": "decline",
+            "chinese": "n. [U] 減少，下降"
+        },
+        {
+            "english": "utilize",
+            "chinese": "vt. 利用"
+        },
+        {
+            "english": "incinerator",
+            "chinese": "n. [C] 焚化爐"
+        },
+        {
+            "english": "carbon dioxide",
+            "chinese": "n. [U] 二氧化碳"
+        },
+        {
+            "english": "methane",
+            "chinese": "n. [U] 甲烷"
+        },
+        {
+            "english": "landfill",
+            "chinese": "n. [C] 垃圾掩埋場"
+        },
+        {
+            "english": "run out (of sth)",
+            "chinese": "用完(某物)"
+        },
+        {
+            "english": "have a long way to go",
+            "chinese": "有很長的路要走"
+        },
+        {
+            "english": "as long as",
+            "chinese": "只要"
+        },
+        {
+            "english": "in general",
+            "chinese": "整體來說，從總體上來看"
+        },
+        {
+            "english": "for the time being",
+            "chinese": "暫時，目前"
+        }
+    ],
+    "康軒 三上(國三) B5L5-6單字" : [
+        {
+            "english": "foreign",
+            "chinese": "(adj.)國外的"
+        },
+        {
+            "english": "lollipop",
+            "chinese": "(n.)棒棒糖"
+        },
+        {
+            "english": "pink",
+            "chinese": "(adj.)粉色的"
+        },
+        {
+            "english": "purple",
+            "chinese": "(adj.)紫色的"
+        },
+        {
+            "english": "natural",
+            "chinese": "(adj.)天然的"
+        },
+        {
+            "english": "package",
+            "chinese": "(v.)包裝 (n.)包裹"
+        },
+        {
+            "english": "company",
+            "chinese": "(n.)公司"
+        },
+        {
+            "english": "million",
+            "chinese": "(n.)百萬"
+        },
+        {
+            "english": "center",
+            "chinese": "(n.)中心,中央"
+        },
+        {
+            "english": "boss",
+            "chinese": "(n.)老闆"
+        },
+        {
+            "english": "amazing",
+            "chinese": "(adj.)令人驚喜的"
+        },
+        {
+            "english": "married",
+            "chinese": "(adj.)已婚的"
+        },
+        {
+            "english": "sounding",
+            "chinese": "(adj.)聽起來...的"
+        },
+        {
+            "english": "have a sweet tooth",
+            "chinese": "愛吃甜食"
+        },
+        {
+            "english": "rise",
+            "chinese": "(n. v.) 上漲,升高"
+        },
+        {
+            "english": "success",
+            "chinese": "(n.) 成功"
+        },
+        {
+            "english": "mark",
+            "chinese": "(n.)目標,標記"
+        },
+        {
+            "english": "belong to",
+            "chinese": "屬於"
+        },
+        {
+            "english": "grown-up",
+            "chinese": "(n.)大人,成年人"
+        },
+        {
+            "english": "wise",
+            "chinese": "(adj.)有智慧的"
+        },
+        {
+            "english": "hard working",
+            "chinese": "(adj.)勤勉的"
+        },
+        {
+            "english": "leader",
+            "chinese": "(n.)領導者"
+        },
+        {
+            "english": "simple",
+            "chinese": "(adj.)單純的,簡單的"
+        },
+        {
+            "english": "repeat",
+            "chinese": "(v.)重複,複誦"
+        },
+        {
+            "english": "information",
+            "chinese": "(n.)資料, 消息"
+        },
+        {
+            "english": "dentist",
+            "chinese": "(n.)牙醫"
+        },
+        {
+            "english": "knowledge",
+            "chinese": "(n.)知識"
+        },
+        {
+            "english": "fail",
+            "chinese": "(v.)失敗"
+        },
+        {
+            "english": "deal with",
+            "chinese": "處理"
+        },
+        {
+            "english": "fulfill",
+            "chinese": "執行,實踐"
+        },
+        {
+            "english": "popcorn",
+            "chinese": "(n.)爆米花"
+        },
+        {
+            "english": "school fair",
+            "chinese": "園遊會"
+        },
+        {
+            "english": "tool",
+            "chinese": "(n.)工具"
+        },
+        {
+            "english": "pop",
+            "chinese": "(v.)爆開"
+        },
+        {
+            "english": "burn",
+            "chinese": "(v.)燒焦,燃燒"
+        },
+        {
+            "english": "pot",
+            "chinese": "(n.)鍋子,壺"
+        },
+        {
+            "english": "appear",
+            "chinese": "(v.)似乎"
+        },
+        {
+            "english": "promotion",
+            "chinese": "(n.)促銷"
+        },
+        {
+            "english": "fool",
+            "chinese": "(v.)愚弄 (n.)傻瓜"
+        },
+        {
+            "english": "trick",
+            "chinese": "(n.)騙局"
+        },
+        {
+            "english": "understand",
+            "chinese": "(v.)了解"
+        },
+        {
+            "english": "secret",
+            "chinese": "(n. adj.)秘密(的)"
+        },
+        {
+            "english": "profit",
+            "chinese": "(n.)利潤"
+        },
+        {
+            "english": "below",
+            "chinese": "(adv.)在下面 (prep.)在...的下面"
+        },
+        {
+            "english": "cheat",
+            "chinese": "(v.)欺騙,作弊"
+        },
+        {
+            "english": "wallet",
+            "chinese": "(n.)錢包"
+        },
+        {
+            "english": "waste",
+            "chinese": "(v. n.)浪費 (n.)廢棄物"
+        },
+        {
+            "english": "deal",
+            "chinese": "(n,v)交易"
+        },
+        {
+            "english": "kilogram(kg)",
+            "chinese": "(n.)公斤"
+        },
+        {
+            "english": "gram(g)",
+            "chinese": "(n.)公克"
+        },
+        {
+            "english": "pound(lb)",
+            "chinese": "(n.)磅"
+        },
+        {
+            "english": "peach",
+            "chinese": "(n.)桃子"
+        },
+        {
+            "english": "pear",
+            "chinese": "(n.)梨子"
+        },
+        {
+            "english": "lemon",
+            "chinese": "(n.)檸檬"
+        },
+        {
+            "english": "tomato",
+            "chinese": "(n.)番茄"
+        },
+        {
+            "english": "pin",
+            "chinese": "(n.)大頭針,別針"
+        },
+        {
+            "english": "superglue",
+            "chinese": "(n.)三秒膠"
+        },
+        {
+            "english": "paste",
+            "chinese": "(n.)漿糊 (v.)黏貼"
+        },
+        {
+            "english": "jump rope",
+            "chinese": "(n. v.)跳繩"
+        },
+        {
+            "english": "marker",
+            "chinese": "(n.)麥克筆"
+        },
+        {
+            "english": "gray",
+            "chinese": "(adj. n.)灰色的"
+        },
+        {
+            "english": "paint",
+            "chinese": "(n.)顏料,油漆 (v.)(用顏料)畫"
+        },
+        {
+            "english": "total",
+            "chinese": "(n. adj.)總數(的)"
+        },
+        {
+            "english": "product",
+            "chinese": "(n.)產品"
+        },
+        {
+            "english": "pass up",
+            "chinese": "放過,錯過(機會)"
+        },
+        {
+            "english": "sample",
+            "chinese": "(n.)樣品"
+        },
+        {
+            "english": "bottom",
+            "chinese": "(adj. n.)底部(的)"
+        },
+        {
+            "english": "level",
+            "chinese": "(n.)高度,程度"
+        },
+        {
+            "english": "cent",
+            "chinese": "(n.)分(金錢單位)"
+        },
+        {
+            "english": "above",
+            "chinese": "(prep.)高於,在...之上"
+        },
+        {
+            "english": "centimeter(cm)",
+            "chinese": "(n.)公分"
+        },
+        {
+            "english": "height",
+            "chinese": "(n.)高度"
+        },
+        {
+            "english": "therefore",
+            "chinese": "(adv.)因此"
+        },
+        {
+            "english": "shopkeeper",
+            "chinese": "(n.)店主"
+        },
+        {
+            "english": "come to think of it",
+            "chinese": "這樣一想"
+        },
+        {
+            "english": "sight",
+            "chinese": "(n.)所見之物,景象"
+        }
+    ]
+}
