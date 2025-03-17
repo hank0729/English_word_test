@@ -430,22 +430,29 @@ document.addEventListener("DOMContentLoaded", (() => {
     }
   });
 
-  q.addEventListener("keydown", (e) => {
-    const t = q.value,
-      n = J[Q].english;
-    if (!(e.ctrlKey && e.metaKey || "v" === e.key.toLowerCase())) {
-      if ("Backspace" === e.key) {
-        const e = t.length;
-        if (e > 0) {
-          if (t[e - 1] !== n[e - 1]) return;
-        }
-      } else {
-        const tVal = n.toLowerCase(),
-          o = q.value.toLowerCase();
-        if (Array.from(o).some((e, n) => e !== tVal[n])) e.preventDefault();
-      }
-    } else e.preventDefault();
-  });
+q.addEventListener("keydown", (e) => {
+  const currentValue = q.value,
+    targetWord = J[Q].english;
+  // 如果是 Ctrl+V 或 Command+V，則阻止預設行為
+  if ((e.ctrlKey || e.metaKey) && e.key.toLowerCase() === "v") {
+    e.preventDefault();
+    return;
+  }
+  // 處理其他按鍵邏輯
+  if ("Backspace" === e.key) {
+    const len = currentValue.length;
+    if (len > 0 && currentValue[len - 1] !== targetWord[len - 1]) {
+      return;
+    }
+  } else {
+    const targetLower = targetWord.toLowerCase(),
+      currentLower = currentValue.toLowerCase();
+    if (Array.from(currentLower).some((char, idx) => char !== targetLower[idx])) {
+      e.preventDefault();
+    }
+  }
+});
+
 
   q.addEventListener("paste", (e) => {
     e.preventDefault();
