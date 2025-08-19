@@ -438,18 +438,14 @@ q.addEventListener("keydown", (e) => {
     e.preventDefault();
     return;
   }
-  // 處理其他按鍵邏輯
-  if ("Backspace" === e.key) {
-    const len = currentValue.length;
-    if (len > 0 && currentValue[len - 1] !== targetWord[len - 1]) {
-      return;
-    }
-  } else {
-    const targetLower = targetWord.toLowerCase(),
-      currentLower = currentValue.toLowerCase();
-    if (Array.from(currentLower).some((char, idx) => char !== targetLower[idx])) {
-      e.preventDefault();
-    }
+  // 非單一字元的按鍵直接忽略
+  if (e.key.length !== 1) {
+    return;
+  }
+  const targetLower = targetWord.toLowerCase(),
+    currentLower = currentValue.toLowerCase();
+  if (Array.from(currentLower).some((char, idx) => char !== targetLower[idx])) {
+    e.preventDefault();
   }
 });
 
