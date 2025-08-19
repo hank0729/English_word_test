@@ -381,7 +381,7 @@ document.addEventListener("DOMContentLoaded", (() => {
     P.textContent = "打字速度: 0 WPM";
     W.textContent = "打字速度: 0 WPM";
     V.classList.add("hidden");
-    ne ? ae(null, ne) : ae(parseInt(f.value), null);
+    ne ? ae(null, ne) : ae(K[R].length, null);
   });
 
   r.addEventListener("click", () => {
