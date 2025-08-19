@@ -52,7 +52,6 @@ document.addEventListener("DOMContentLoaded", (() => {
     Q = 0,
     X = 0,
     Y = 0,
-    _ = 0,
     ee = 0,
     te = 0,
     ne = null,
@@ -111,7 +110,7 @@ document.addEventListener("DOMContentLoaded", (() => {
         console.log("Test mode:", oe);
       }
       console.log("Test words:", J);
-      Q = 0, X = 0, Y = 0, _ = 0, ee = 0;
+      Q = 0, X = 0, Y = 0, ee = 0;
       H.textContent = "時間: 0 秒";
       j.textContent = ne ? `成功輸入單字數量: ${ee}` : "正確率: 0%";
       P.textContent = "打字速度: 0 WPM";
@@ -372,7 +371,6 @@ document.addEventListener("DOMContentLoaded", (() => {
     Q = 0;
     X = 0;
     Y = 0;
-    _ = 0;
     ee = 0;
     q.value = "";
     q.classList.remove("correct", "incorrect");
@@ -400,7 +398,6 @@ document.addEventListener("DOMContentLoaded", (() => {
     if (d >= t.length) {
       q.value = t;
     } else {
-      if (e.length > X + Y) _++;
       if (d >= 0) {
         if (o[d] === n[d]) {
           s[d]?.classList.add("correct");
