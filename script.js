@@ -250,7 +250,10 @@ document.addEventListener("DOMContentLoaded", (() => {
     : alert("抱歉，您的瀏覽器不支援語音合成功能。");
 
   fetch("words.json")
-    .then((e) => e.json())
+    .then((e) => {
+      if (!e.ok) throw new Error(`HTTP error! status: ${e.status}`);
+      return e.json();
+    })
     .then((n) => {
       K = n;
       O = Object.keys(n);
