@@ -235,14 +235,6 @@ document.addEventListener("DOMContentLoaded", (() => {
     return window.innerWidth <= 768;
   }
 
-  // （重複定義的 ce 與 ie，保持一致）
-  function ce(e, t) {
-    localStorage.setItem(e, t)
-  }
-  function ie(e) {
-    return localStorage.getItem(e)
-  }
-
   Z.textContent = se;
   G.textContent = de;
   "speechSynthesis" in window
