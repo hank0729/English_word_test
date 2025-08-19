@@ -114,7 +114,7 @@ document.addEventListener("DOMContentLoaded", (() => {
       Q = 0, X = 0, Y = 0, _ = 0, ee = 0;
       H.textContent = "時間: 0 秒";
       j.textContent = ne ? `成功輸入單字數量: ${ee}` : "正確率: 0%";
-      P.textContent = "打字速度: 0 WPM";
+      P.textContent = "打字速度: 0 WPM (每分鐘單字)";
       T.classList.add("hidden");
       M.classList.remove("hidden");
       re();
@@ -181,7 +181,7 @@ document.addEventListener("DOMContentLoaded", (() => {
       W.textContent = "";
     } else {
       D.textContent = `正確率: ${n}%`;
-      const t = (X / e * 60).toFixed(2);
+      const t = (X / 5 / e * 60).toFixed(2);
       W.textContent = `${t} WPM`;
     }
     console.log("Test ended. Duration:", e, "s, Accuracy:", D.textContent, "WPM:", W.textContent);
@@ -217,8 +217,8 @@ document.addEventListener("DOMContentLoaded", (() => {
       const t = X + Y,
         n = t > 0 ? (X / t * 100).toFixed(2) : 0;
       j.textContent = `正確率: ${n}%`;
-      const o = e > 0 ? (X / e * 60).toFixed(2) : 0;
-      P.textContent = `打字速度: ${o} WPM`;
+      const o = e > 0 ? (X / 5 / e * 60).toFixed(2) : 0;
+      P.textContent = `打字速度: ${o} WPM (每分鐘單字)`;
     }
   }
 
@@ -378,8 +378,8 @@ document.addEventListener("DOMContentLoaded", (() => {
     q.classList.remove("correct", "incorrect");
     k.innerHTML = "";
     $.innerHTML = "";
-    P.textContent = "打字速度: 0 WPM";
-    W.textContent = "打字速度: 0 WPM";
+    P.textContent = "打字速度: 0 WPM (每分鐘單字)";
+    W.textContent = "0 WPM";
     V.classList.add("hidden");
     ne ? ae(null, ne) : ae(parseInt(f.value), null);
   });
